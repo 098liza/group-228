@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Задание на экзамен</title>
+</head>
+<body bgcolor=#FFA500>
+  <button id="ex1">Далее</button> <input type="text"/>
+ </body>
+</html>
