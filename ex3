@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Задание на экзамен</title>
+</head>
+<body bgcolor=#FFA500>
+<form action="http://localhost:63342/pythonProject/ex3_2.html?_ijt=7l4vmeesmmipshk65v4j7fhu6o&_ij_reload=RELOAD_ON_SAVE">
+   <p><input name="login"></p>
+   <p><input type="submit"></p>
+  </form>
+  </body>
+</html>
